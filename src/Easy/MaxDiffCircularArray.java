@@ -1,13 +1,28 @@
 package Easy;
 
+/**
+ * 3423. Maximum Difference Between Adjacent Elements in a Circular Array
+ * Given a circular array nums, find the maximum absolute difference between adjacent elements.
+ *
+ * Note: In a circular array, the first and last elements are adjacent.
+ *
+ * Example:
+ * Input: [1, 3, 8, 2]
+ * Output: 6
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
+
+
 public class MaxDiffCircularArray {
 
-    /* 3423. Maximum Difference Between Adjacent Elements in a Circular Array
-       Given a circular array nums, find the maximum absolute difference between adjacent elements.
+    public static void main(String[] args) { // for testing purposes
+        MaxDiffCircularArray solution = new MaxDiffCircularArray();
+        int[] nums = {1, 3, 8, 2};
+        System.out.println(solution.maxAdjacentDistance(nums)); // Output: 6
 
-       Note: In a circular array, the first and last elements are adjacent.
-     */
-
+    }
 
     public int maxAdjacentDistance(int[] nums) {
 
