@@ -1,16 +1,18 @@
 package Easy;
 
+
+/**
+ * 1550. Three Consecutive Odds
+ * Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.
+ * -
+ * Example:
+ * Input: arr = [2,6,4,1]
+ * Output: false
+ *
+ *
+ */
 public class ThreeConsecutiveOdds_1550 {
-    /**
-     * 1550. Three Consecutive Odds
-     * Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.
-     * -
-     * Example:
-     * Input: arr = [2,6,4,1]
-     * Output: false
-     *
-     *
-     */
+
 
     public static void main(String[] args){ // for testing purposes
         ThreeConsecutiveOdds_1550 solution = new ThreeConsecutiveOdds_1550();

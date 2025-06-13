@@ -9,9 +9,6 @@ package Easy;
  * Example:
  * Input: [1, 3, 8, 2]
  * Output: 6
- * -
- * Time Complexity: O(n)
- * Space Complexity: O(1)
  */
 
 
