@@ -7,7 +7,7 @@ package Easy;
  * If the index is on the left edge of the array, then the left sum is 0 because there are no elements to the left. This also applies to the right edge of the array.
  * Return the leftmost pivot index. If no such index exists, return -1. </p>
  *
- * Example 1:
+ * Example:
  * Input: nums = [1,7,3,6,5,6]
  * Output: 3
  */
