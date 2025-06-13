@@ -16,11 +16,12 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 
 
 <H3> 🟡 Medium 🟡 </H3>
+
 | # | Problem | Link | Solution | Notes |
 |--:|---------|------|----------|-------|
-| | [🔗]() | []() |  |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | [🔗](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [MaxNumVowels.java](src/Easy/MaxNumVowels_1456.java)| Sliding Window |
 
 <H3> 🔴 Hard 🔴 </H3>
 | # | Problem | Link | Solution | Notes |
 |--:|---------|------|----------|-------|
-| | [🔗]() | []() |  |
+| |  | |  |
