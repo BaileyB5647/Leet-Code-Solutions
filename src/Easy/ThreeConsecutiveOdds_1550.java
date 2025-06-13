@@ -23,7 +23,7 @@ public class ThreeConsecutiveOdds_1550 {
 
         // for every number in the array
         for (int num : arr){
-            // if that number is even
+            // if that number is not even
             if (num % 2 != 0){
                 // then increment the counter
                 count++;
