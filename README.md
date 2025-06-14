@@ -21,6 +21,7 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 | # | Problem | Link | Solution | Notes |
 |--:|---------|------|----------|-------|
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | [🔗](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [MaxNumVowels.java](src/Medium/MaxNumVowels_1456.java)| Sliding Window |
+| 1679 | Max Number of K-Sum Pairs | [🔗](http://leetcode.com/problems/max-number-of-k-sum-pairs/) | [MaxNumKSumPairs.java](src/Medium/MaxNumOfKSumPairs_1679.java) | |
 
 <H3> 🔴 Hard 🔴 </H3>
 | # | Problem | Link | Solution | Notes |
