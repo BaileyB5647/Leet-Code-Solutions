@@ -9,6 +9,7 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 
 | # | Problem | Link | Solution | Notes |
 |--:|---------|------|----------|-------|
+| 35 | Search Insert Position | [🔗](https://leetcode.com/problems/search-insert-position/) | [SearchInsertPosition.java](src/Easy/SearchInsertPosition_35.java) | Binary Search | 
 | 643 | Maximum Average Subarray I | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) | [MaxAverageSubarray.java](src/Easy/MaxAverageSubarray_643.java) | |
 | 724 | Find Pivot Index | [🔗](https://leetcode.com/problems/find-pivot-index/) | [FindPivotIndex.java](src/Easy/FindPivotIndex_724.java)| | 
 | 744 | Find Smallest Letter Greater Than Target | [🔗](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [SmallestLetterGreaterThanTarget.java](src/Easy/SmallestLetterGreaterThanTarget_744.java) | Binary Search | 
