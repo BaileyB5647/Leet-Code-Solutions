@@ -10,6 +10,8 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 | # | Problem | Link | Solution | Notes |
 |--:|---------|------|----------|-------|
 | 35 | Search Insert Position | [🔗](https://leetcode.com/problems/search-insert-position/) | [SearchInsertPosition.java](src/Easy/SearchInsertPosition_35.java) | Binary Search | 
+| 283 | Move Zeroes | [🔗](https://leetcode.com/problems/move-zeroes/description/) | [MoveZeroes.java](src/Easy/MoveZeroes_283.java) | |
+| 345 | Reverse Vowels in a String | [🔗](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [ReverseVowelsString.java](src/Easy/ReverseVowelsString_345.java) | Stack |
 | 643 | Maximum Average Subarray I | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) | [MaxAverageSubarray.java](src/Easy/MaxAverageSubarray_643.java) | |
 | 704 | Binary Search | [🔗](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](src/Easy/BinarySearch_704.java) | Binary Search | 
 | 724 | Find Pivot Index | [🔗](https://leetcode.com/problems/find-pivot-index/) | [FindPivotIndex.java](src/Easy/FindPivotIndex_724.java)| | 
@@ -25,6 +27,8 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 |--:|---------|------|----------|-------|
 | 11 | Container With Most Water |  [🔗](https://leetcode.com/problems/container-with-most-water/) | [ContainerWithMostWater.java](src/Medium/ContainerWithMostWater_11.java) | Two Pointer Approach |
 | 34 | Find First and Last Position of Element in Sorted Array | [🔗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [FirstAndLastPositionOfElement.java](src/Medium/FirstAndLastPositionOfElement_34.java) | Binary Search | 
+| 151 | Reverse Words in a String | [🔗](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [ReverseWordsInString.java](src/Medium/ReverseWordsInString_151.java)
+| 238 | Product of Array Except Self | [🔗](https://leetcode.com/problems/product-of-array-except-self/description/) | [ProductOfArrayExceptSelf.java](src/Medium/ProductOfArrayExceptSelf_238.java) | |
 | 334 | Increasing Triplet Subsequence |  [🔗](https://leetcode.com/problems/increasing-triplet-subsequence/description/) | [IncreasingTripletSubsequence.java](src/Medium/IncreasingTripletSubsequence_334.java) | | 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | [🔗](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [MaxNumVowels.java](src/Medium/MaxNumVowels_1456.java)| Sliding Window |
 | 1679 | Max Number of K-Sum Pairs | [🔗](http://leetcode.com/problems/max-number-of-k-sum-pairs/) | [MaxNumKSumPairs.java](src/Medium/MaxNumOfKSumPairs_1679.java) | |
