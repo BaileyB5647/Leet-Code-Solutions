@@ -9,6 +9,7 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 
 | # | Problem | Link | Solution | Notes |
 |--:|---------|------|----------|-------|
+| 643 | Maximum Average Subarray I | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) | [MaxAverageSubarray.java](src/Easy/MaxAverageSubarray_643.java) | |
 | 724 | Find Pivot Index | [🔗](https://leetcode.com/problems/find-pivot-index/) | [FindPivotIndex.java](src/Easy/FindPivotIndex_724.java)| |
 | 1550 | Three Consecutive Odds | [🔗](https://leetcode.com/problems/three-consecutive-odds/description/) | [ThreeConsecutiveOdds.java](src/Easy/ThreeConsecutiveOdds_1550.java) | |
 | 1732 | Find the Highest Altitude |[🔗](https://leetcode.com/problems/find-the-highest-altitude/) | [FindHighestAltitude.java](src/Easy/FindHighestAltitude_1732.java) | Could replace for loop with for-each? |
