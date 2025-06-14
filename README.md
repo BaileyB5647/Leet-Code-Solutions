@@ -11,6 +11,7 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 |--:|---------|------|----------|-------|
 | 35 | Search Insert Position | [🔗](https://leetcode.com/problems/search-insert-position/) | [SearchInsertPosition.java](src/Easy/SearchInsertPosition_35.java) | Binary Search | 
 | 643 | Maximum Average Subarray I | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) | [MaxAverageSubarray.java](src/Easy/MaxAverageSubarray_643.java) | |
+| 704 | Binary Search | [🔗](https://leetcode.com/problems/binary-search/) | [BinarySearch.java](src/Easy/BinarySearch_704.java) | Binary Search | 
 | 724 | Find Pivot Index | [🔗](https://leetcode.com/problems/find-pivot-index/) | [FindPivotIndex.java](src/Easy/FindPivotIndex_724.java)| | 
 | 744 | Find Smallest Letter Greater Than Target | [🔗](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [SmallestLetterGreaterThanTarget.java](src/Easy/SmallestLetterGreaterThanTarget_744.java) | Binary Search | 
 | 1550 | Three Consecutive Odds | [🔗](https://leetcode.com/problems/three-consecutive-odds/description/) | [ThreeConsecutiveOdds.java](src/Easy/ThreeConsecutiveOdds_1550.java) | |
