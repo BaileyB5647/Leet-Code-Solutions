@@ -21,6 +21,7 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 | # | Problem | Link | Solution | Notes |
 |--:|---------|------|----------|-------|
 | 11 | Container With Most Water |  [🔗](https://leetcode.com/problems/container-with-most-water/) | [ContainerWithMostWater.java](src/Medium/ContainerWithMostWater_11.java) | Two Pointer Approach |
+| 34 | Find First and Last Position of Element in Sorted Array | [🔗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [FirstAndLastPositionOfElement.java](src/Medium/FirstAndLastPositionOfElement_34.java) | Binary Search | 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | [🔗](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | [MaxNumVowels.java](src/Medium/MaxNumVowels_1456.java)| Sliding Window |
 | 1679 | Max Number of K-Sum Pairs | [🔗](http://leetcode.com/problems/max-number-of-k-sum-pairs/) | [MaxNumKSumPairs.java](src/Medium/MaxNumOfKSumPairs_1679.java) | |
 
