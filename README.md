@@ -27,6 +27,7 @@ This contains my solutions to some LeetCode problems. Included in each solution 
 |--:|---------|------|----------|-------|
 | 11 | Container With Most Water |  [🔗](https://leetcode.com/problems/container-with-most-water/) | [ContainerWithMostWater.java](src/Medium/ContainerWithMostWater_11.java) | Two Pointer Approach |
 | 34 | Find First and Last Position of Element in Sorted Array | [🔗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [FirstAndLastPositionOfElement.java](src/Medium/FirstAndLastPositionOfElement_34.java) | Binary Search | 
+| 49 | Group Anagrams | [🔗](https://leetcode.com/problems/group-anagrams/description/) | [GroupAnagrams.java](src/Medium/GroupAnagrams_49.java) | HashMap | 
 | 151 | Reverse Words in a String | [🔗](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [ReverseWordsInString.java](src/Medium/ReverseWordsInString_151.java)
 | 238 | Product of Array Except Self | [🔗](https://leetcode.com/problems/product-of-array-except-self/description/) | [ProductOfArrayExceptSelf.java](src/Medium/ProductOfArrayExceptSelf_238.java) | |
 | 334 | Increasing Triplet Subsequence |  [🔗](https://leetcode.com/problems/increasing-triplet-subsequence/description/) | [IncreasingTripletSubsequence.java](src/Medium/IncreasingTripletSubsequence_334.java) | | 
